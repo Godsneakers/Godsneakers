@@ -7,8 +7,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&lines=Hello+World!+My+name+is+Davi+Chaves;+%22I'm+a+Junior+Dev;%22Be+Welcome!+%F0%9F%91%8B%F0%9F%98%81%22)](https://git.io/typing-svg)
 
  <div>
-    <a href ="https://github.com/r90ur7">
-     <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=r90ur7&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="Rallenson github stats" />
+    <a href ="https://github.com/Godsneakers">
+     <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=r90ur7&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="Godsneakers github stats" />
      <img width="41%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godsneakers&layout=compact&langs_count=16&theme=dracula&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
     </a>
  </div>
@@ -37,7 +37,7 @@
  
   <div align="right">
   <a href = "mailto:Rallenson900@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-rallenson/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/davi-chaves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   <div>
   <details open>
@@ -76,12 +76,12 @@
  </p>
 
   <p align="center">
-     <img src="https://github-profile-trophy.vercel.app/?username=r90ur7&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+     <img src="https://github-profile-trophy.vercel.app/?username=Godsneakers&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
  </p>
  </details>
 
 
-  - 🔭 I’m currently working on: <a href="https://github.com/UgbFerp"> UGB - Ferp </a>
+ - 🔭 I’m currently working on: <a href="https://github.com/UgbFerp"> UGB - Ferp </a>
   - 🌱 I’m currently learning: User experience and Design
    <br/>
 
@@ -121,7 +121,7 @@
    </h4>
       
 
- <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/r90ur7/count.svg" /></p>
+ <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Godsneakers/count.svg" /></p>
  
 <!--
 - 👯 I’m looking to collaborate on ...
