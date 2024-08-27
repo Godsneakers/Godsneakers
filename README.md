@@ -6,13 +6,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&lines=Hello+World!+My+name+is+Davi+Chaves;+%22I'm+a+Junior+Dev;%22Be+Welcome!+%F0%9F%91%8B%F0%9F%98%81%22)](https://git.io/typing-svg)
 
- <div>
-    <a href ="https://github.com/Godsneakers">
-     <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=r90ur7&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="Godsneakers github stats" />
-     <img width="41%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godsneakers&layout=compact&langs_count=16&theme=dracula&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
-    </a>
- </div>
+ [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Godsneakers&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Godsneakers/github-readme-stats#gh-dark-mode-only)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godsneakers)](https://github.com/Godsneakers/github-readme-stats)
 </div>
+
 
 </div>
 
